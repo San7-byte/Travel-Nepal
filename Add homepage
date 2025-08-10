@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Travel Nepal</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f0f8ff; }
+    header { text-align: center; margin-bottom: 40px; }
+    h1 { color: #2c3e50; }
+    p { font-size: 18px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to Travel Nepal!</h1>
+    <p>Your guide to beautiful destinations in Nepal.</p>
+  </header>
+
+  <section>
+    <h2>Top Destinations</h2>
+    <ul>
+      <li>Pokhara - Lakes and Mountains</li>
+      <li>Kathmandu - The Capital City</li>
+      <li>Chitwan National Park - Wildlife Safari</li>
+      <li>Everest Base Camp Trek</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Travel Nepal</p>
+  </footer>
+</body>
+</html>
